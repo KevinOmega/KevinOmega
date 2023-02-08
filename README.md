@@ -19,6 +19,9 @@ possible.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="60px" align="left" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60px"" >
 
+
+[![KevinOmega Stats](https://github-readme-stats.vercel.app/api?username=KevinOmega)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 KevinOmega/KevinOmega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
