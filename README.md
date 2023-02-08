@@ -20,7 +20,7 @@ possible.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60px"" >
 
 
-[![KevinOmega Stats](https://github-readme-stats.vercel.app/api?username=KevinOmega)](https://github.com/anuraghazra/github-readme-stats)
+![KevinOmega GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinOmega&show_icons=true&theme=radical)
 
 <!---
 KevinOmega/KevinOmega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
