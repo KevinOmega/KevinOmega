@@ -17,8 +17,9 @@ possible.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" align="left" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60px" align="left" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="60px" align="left" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60px"" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60px" >
 
+### Ratings
 
 ![KevinOmega GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinOmega&show_icons=true&theme=radical)
 
